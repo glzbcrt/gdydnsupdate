@@ -1,4 +1,4 @@
-# GoDaddy DNS Update
+# GoDaddy DNS Update &middot; [![GoDaddy DNS Update license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/glzbcrt/gdydnsupdate/blob/master/LICENSE)
 
 Small utility I wrote to update my home external IP address so I could acess it remotely, even if the address did change.
 As I use GoDaddy to host my DNS zone and it has a good API I wrote a simple Python script to update my external IP address.
